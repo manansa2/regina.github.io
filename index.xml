@@ -13,10 +13,10 @@
     
     <item>
       <title>Reflections on CS 250</title>
-      <link>/post/blogdown/</link>
+      <link>/post/cs250/</link>
       <pubDate>Sun, 23 Aug 2020 22:26:45 +0000</pubDate>
       
-      <guid>/post/blogdown/</guid>
+      <guid>/post/cs250/</guid>
       <description>Sun Aug 23 22:26:45 2020
 Over the summer, the members of my lab had the opportunity to audit UW-Milwaukee’s Introduction to Programming class. It was 8 weeks long and entirely online. This was my first time ever taking a class online that wasn’t one those free online short courses from Coursera or FutureLearn. In the weeks prior, I was witness to my sister’s abrupt transition to online classes due to Covid-19 so I expected my course follow a similar format as hers - set lecture times where you watch a video or slideshow with a professor’s voiceover, small group discussion sections, and online homework questionnaires/assignments.</description>
     </item>
@@ -34,10 +34,10 @@ Over the summer, the members of my lab had the opportunity to audit UW-Milwaukee
     
     <item>
       <title>Finally! How I got my blog to work...</title>
-      <link>/post/blogdown/</link>
+      <link>/post/hello/</link>
       <pubDate>Fri, 21 Aug 2020 22:00:00 +0000</pubDate>
       
-      <guid>/post/blogdown/</guid>
+      <guid>/post/hello/</guid>
       <description>Finally! This blog was over a year in the making, but I finally managed to get it to work. It took me a REALLY long time to realize that my dissatisfaction with my GitHub username was causing all the blog deployment hiccups.
 I’ve been intending to start a blog as a showcase or dumping site of sorts. It might be a slow start because I’m learning the intricacies of blogdown and GitHub, as well as deciding on how to appropriately structure my content without becoming a huge mess.</description>
     </item>
