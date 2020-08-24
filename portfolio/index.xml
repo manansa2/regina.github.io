@@ -6,10 +6,21 @@
     <description>Recent content in Portfolios on Regina Manansala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2020 22:04:13 +0000</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tokyo, Japan</title>
+      <link>/portfolio/shibuya/</link>
+      <pubDate>Sun, 23 Aug 2020 22:04:13 +0000</pubDate>
+      
+      <guid>/portfolio/shibuya/</guid>
+      <description>Shibuya Center-Gai, November 2018
+  Kinkaku-ji, November 2018
+ To add a bit of color to my blog in the meantime, I&amp;rsquo;m sharing a couple photos from one of my favorite trips abroad.</description>
+    </item>
     
     <item>
       <title>Finally! How I got my blog to work...</title>
@@ -19,16 +30,6 @@
       <guid>/portfolio/hello/</guid>
       <description>Finally! This blog was over a year in the making, but I finally managed to get it to work. It took me a REALLY long time to realize that my dissatisfaction with my GitHub username was causing all the blog deployment hiccups.
 I&amp;rsquo;ve been intending to start a blog as a showcase or dumping site of sorts. It might be a slow start because I&amp;rsquo;m learning the intricacies of blogdown and GitHub, as well as deciding on how to appropriately structure my content without becoming a huge mess.</description>
-    </item>
-    
-    <item>
-      <title>Tokyo, Japan</title>
-      <link>/portfolio/shibuya/</link>
-      <pubDate>Fri, 21 Aug 2020 01:27:13 +0000</pubDate>
-      
-      <guid>/portfolio/shibuya/</guid>
-      <description> Shibuya Center-Gai, November 2018
- </description>
     </item>
     
   </channel>
