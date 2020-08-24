@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Regina Manansala</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on Regina Manansala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2020 22:26:45 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reflections on CS 250</title>
+      <link>/post/blogdown/</link>
+      <pubDate>Sun, 23 Aug 2020 22:26:45 +0000</pubDate>
+      
+      <guid>/post/blogdown/</guid>
+      <description>Sun Aug 23 22:26:45 2020
+Over the summer, the members of my lab had the opportunity to audit UW-Milwaukee’s Introduction to Programming class. It was 8 weeks long and entirely online. This was my first time ever taking a class online that wasn’t one those free online short courses from Coursera or FutureLearn. In the weeks prior, I was witness to my sister’s abrupt transition to online classes due to Covid-19 so I expected my course follow a similar format as hers - set lecture times where you watch a video or slideshow with a professor’s voiceover, small group discussion sections, and online homework questionnaires/assignments.</description>
+    </item>
+    
+  </channel>
+</rss>

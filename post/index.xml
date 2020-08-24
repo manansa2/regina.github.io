@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Regina Manansala</title>
-    <link>/</link>
-    <description>Recent content on Regina Manansala</description>
+    <title>Posts on Regina Manansala</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Regina Manansala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Aug 2020 22:26:45 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/post/blogdown/</guid>
       <description>Sun Aug 23 22:26:45 2020
 Over the summer, the members of my lab had the opportunity to audit UW-Milwaukee’s Introduction to Programming class. It was 8 weeks long and entirely online. This was my first time ever taking a class online that wasn’t one those free online short courses from Coursera or FutureLearn. In the weeks prior, I was witness to my sister’s abrupt transition to online classes due to Covid-19 so I expected my course follow a similar format as hers - set lecture times where you watch a video or slideshow with a professor’s voiceover, small group discussion sections, and online homework questionnaires/assignments.</description>
-    </item>
-    
-    <item>
-      <title>Tokyo, Japan</title>
-      <link>/portfolio/shibuya/</link>
-      <pubDate>Sun, 23 Aug 2020 22:04:13 +0000</pubDate>
-      
-      <guid>/portfolio/shibuya/</guid>
-      <description>Shibuya Center-Gai, November 2018
-  Kinkaku-ji, November 2018
- To add a bit of color to my blog in the meantime, I&amp;rsquo;m sharing a couple photos from one of my favorite trips abroad.</description>
     </item>
     
     <item>

@@ -6,19 +6,19 @@
     <description>Recent content in text on Regina Manansala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/text/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Finally! How I got my blog to work...</title>
-      <link>/portfolio/hello/</link>
-      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <link>/post/blogdown/</link>
+      <pubDate>Fri, 21 Aug 2020 22:00:00 +0000</pubDate>
       
-      <guid>/portfolio/hello/</guid>
+      <guid>/post/blogdown/</guid>
       <description>Finally! This blog was over a year in the making, but I finally managed to get it to work. It took me a REALLY long time to realize that my dissatisfaction with my GitHub username was causing all the blog deployment hiccups.
-I&amp;rsquo;ve been intending to start a blog as a showcase or dumping site of sorts. It might be a slow start because I&amp;rsquo;m learning the intricacies of blogdown and GitHub, as well as deciding on how to appropriately structure my content without becoming a huge mess.</description>
+I’ve been intending to start a blog as a showcase or dumping site of sorts. It might be a slow start because I’m learning the intricacies of blogdown and GitHub, as well as deciding on how to appropriately structure my content without becoming a huge mess.</description>
     </item>
     
   </channel>

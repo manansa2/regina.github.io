@@ -13,10 +13,10 @@
     
     <item>
       <title>Finally! How I got my blog to work...</title>
-      <link>/portfolio/hello/</link>
+      <link>/post/hello/</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/hello/</guid>
+      <guid>/post/hello/</guid>
       <description>Finally! This blog was over a year in the making, but I finally managed to get it to work. It took me a REALLY long time to realize that my dissatisfaction with my GitHub username was causing all the blog deployment hiccups.
 I&amp;rsquo;ve been intending to start a blog as a showcase or dumping site of sorts. It might be a slow start because I&amp;rsquo;m learning the intricacies of blogdown and GitHub, as well as deciding on how to appropriately structure my content without becoming a huge mess.</description>
     </item>
