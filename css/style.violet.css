@@ -319,14 +319,14 @@ SIDEBAR + RIGHT COLUMN
 #sidebar {
   padding-top: 40px;
 }
-.sidebar-content {
+/*.sidebar-content {
     z-index: 0;
     padding: 0 1.7em 0 0em;
-}
+}*/
 @media screen and (min-width: 992px) {
   .sidebar-content {
-    padding-left: 0px;
-    padding-right: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 .sidebar-heading {
