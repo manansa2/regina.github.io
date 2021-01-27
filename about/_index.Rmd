@@ -3,7 +3,7 @@ date: "2016-08-21"
 title: CV
 ---
 
-![](/img/about.png){ width=50% }
+![](/img/about_new.png){ width=50% }
 
 <h5>EDUCATION</h5>
 <br><b>University of Wisconsin - Milwaukee, Milwaukee, WI (Sep 2015 – May 2017)</b>
