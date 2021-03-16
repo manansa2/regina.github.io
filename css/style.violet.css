@@ -558,7 +558,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .small-navbar-heading a:hover {
   border-bottom: dotted 1px #9055a2;
-  color: #000;
+  color: #9055a2;
   text-decoration: none;
 }
 /*
@@ -957,12 +957,12 @@ a:active {
   letter-spacing: 0.1em;
 }
 .box-masonry h4 a {
-  color: #000;
+  color: #9055a2;
   border-bottom: solid 1px transparent;
 }
 .box-masonry h4 a:hover {
-  border-bottom: dotted 1px #9055a2;
-  color: #000;
+  /* border-bottom: dotted 1px #9055a2; */
+  color: #6c407a;
   text-decoration: none;
 }
 .box-masonry .box-masonry-text {
@@ -2060,27 +2060,28 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: Roboto, "Helvetica", Arial, sans-serif;
   font-weight: 700;
   line-height: 1.2;
   color: #000000;
 }
 h1,
 .h1 {
-  font-size: 48px;
+  font-size: 38px;
+  color: #6c407a;
 }
 h2,
 .h2 {
-  font-size: 38px;
+  font-size: 32px;
 }
 h3,
 .h3 {
-  font-size: 32px;
+  font-size: 24px;
   font-weight: 700;
 }
 h4,
 .h4 {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
 }
 h5,
@@ -2090,7 +2091,7 @@ h5,
 }
 h6,
 .h6 {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 700;
 }
 h1,
