@@ -2,30 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>photos on Regina Manansala</title>
-    <link>/categories/photos/</link>
+    <link>https://rgnmnl.github.io/categories/photos/</link>
     <description>Recent content in photos on Regina Manansala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/photos/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rgnmnl.github.io/categories/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Year in Review</title>
+      <link>https://rgnmnl.github.io/blog/2021/year-in-review/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rgnmnl.github.io/blog/2021/year-in-review/</guid>
+      <description>When I say I had an exhausting year, I’m not lying.
+I quit my job and started a new one - TWICE  I went through a bit of a crisis earlier in the year. The thought of giving up my career gave me so much anxiety so I frantically searched for jobs that would allow me to work from another country. A recruiter contacted me and I was offered a Data Scientist position with a 25% salary increase, but I didn’t want to take it because I knew I was leaving at some point.</description>
+    </item>
     
     <item>
       <title>A Year of Pandemic Activity</title>
-      <link>/blog/2021/a-year-of-pandemic-activity/</link>
+      <link>https://rgnmnl.github.io/blog/2021/a-year-of-pandemic-activity/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/a-year-of-pandemic-activity/</guid>
+      <guid>https://rgnmnl.github.io/blog/2021/a-year-of-pandemic-activity/</guid>
       <description>I’ve had an Apple Watch for a while now and I bought it largely because I wanted to start tracking my activity – and to, eventually, analyze this data. In order to do the latter, though, I needed to have owned, worn, and religiously tracked activities using my watch for at least 1 whole calendar year. Now in the summer of 2020, I had some down time and so I downloaded my watch data and started messing around with it.</description>
     </item>
     
     <item>
       <title>Japan</title>
-      <link>/blog/2020/japan/</link>
+      <link>https://rgnmnl.github.io/blog/2020/japan/</link>
       <pubDate>Sun, 23 Aug 2020 22:26:45 +0000</pubDate>
       
-      <guid>/blog/2020/japan/</guid>
+      <guid>https://rgnmnl.github.io/blog/2020/japan/</guid>
       <description>Shibuya Center-Gai, November 2018
   Kinkaku-ji, November 2018
  To add a bit of color to my blog in the meantime, I’m sharing a couple photos from one of my favorite trips abroad.</description>

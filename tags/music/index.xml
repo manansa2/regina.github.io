@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music on Regina Manansala</title>
-    <link>/tags/music/</link>
+    <link>https://rgnmnl.github.io/tags/music/</link>
     <description>Recent content in music on Regina Manansala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rgnmnl.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I can&#39;t believe I listened to Momoland that much</title>
-      <link>/blog/2021/i-can-t-believe-i-listened-to-momoland-that-much/</link>
+      <link>https://rgnmnl.github.io/blog/2021/i-can-t-believe-i-listened-to-momoland-that-much/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/i-can-t-believe-i-listened-to-momoland-that-much/</guid>
+      <guid>https://rgnmnl.github.io/blog/2021/i-can-t-believe-i-listened-to-momoland-that-much/</guid>
       <description>At some point during quarantine last year, I found out that you could download a years worth of your Spotify data. Back then I only had 8 months worth of data for 2020, so again, I waited until 2021 to download the rest of it. And since 2021 began, I haven’t found time to do this, until now.
 Last year, for my Spotify Wrapped, I found out that my top songs of 2020 had not one, but 2 (!</description>
     </item>

@@ -2,49 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regina Manansala</title>
-    <link>/</link>
+    <link>https://rgnmnl.github.io/</link>
     <description>Recent content on Regina Manansala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rgnmnl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Year in Review</title>
+      <link>https://rgnmnl.github.io/blog/2021/year-in-review/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rgnmnl.github.io/blog/2021/year-in-review/</guid>
+      <description>When I say I had an exhausting year, I’m not lying.
+I quit my job and started a new one - TWICE  I went through a bit of a crisis earlier in the year. The thought of giving up my career gave me so much anxiety so I frantically searched for jobs that would allow me to work from another country. A recruiter contacted me and I was offered a Data Scientist position with a 25% salary increase, but I didn’t want to take it because I knew I was leaving at some point.</description>
+    </item>
     
     <item>
       <title>I can&#39;t believe I listened to Momoland that much</title>
-      <link>/blog/2021/i-can-t-believe-i-listened-to-momoland-that-much/</link>
+      <link>https://rgnmnl.github.io/blog/2021/i-can-t-believe-i-listened-to-momoland-that-much/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/i-can-t-believe-i-listened-to-momoland-that-much/</guid>
+      <guid>https://rgnmnl.github.io/blog/2021/i-can-t-believe-i-listened-to-momoland-that-much/</guid>
       <description>At some point during quarantine last year, I found out that you could download a years worth of your Spotify data. Back then I only had 8 months worth of data for 2020, so again, I waited until 2021 to download the rest of it. And since 2021 began, I haven’t found time to do this, until now.
 Last year, for my Spotify Wrapped, I found out that my top songs of 2020 had not one, but 2 (!</description>
     </item>
     
     <item>
       <title>A Year of Pandemic Activity</title>
-      <link>/blog/2021/a-year-of-pandemic-activity/</link>
+      <link>https://rgnmnl.github.io/blog/2021/a-year-of-pandemic-activity/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2021/a-year-of-pandemic-activity/</guid>
+      <guid>https://rgnmnl.github.io/blog/2021/a-year-of-pandemic-activity/</guid>
       <description>I’ve had an Apple Watch for a while now and I bought it largely because I wanted to start tracking my activity – and to, eventually, analyze this data. In order to do the latter, though, I needed to have owned, worn, and religiously tracked activities using my watch for at least 1 whole calendar year. Now in the summer of 2020, I had some down time and so I downloaded my watch data and started messing around with it.</description>
     </item>
     
     <item>
       <title>Reflections on CS 250</title>
-      <link>/blog/2020/cs250/</link>
+      <link>https://rgnmnl.github.io/blog/2020/cs250/</link>
       <pubDate>Mon, 24 Aug 2020 21:52:23 +0000</pubDate>
       
-      <guid>/blog/2020/cs250/</guid>
+      <guid>https://rgnmnl.github.io/blog/2020/cs250/</guid>
       <description>Over the summer, the members of my lab had the opportunity to audit UW-Milwaukee’s Introduction to Programming class. It was 8 weeks long and entirely online. This was my first time ever taking a class online that wasn’t one those free online short courses from Coursera or FutureLearn. In the weeks prior, I was witness to my sister’s abrupt transition to online classes due to Covid-19 so I expected my course follow a similar format as hers - set lecture times where you watch a video or slideshow with a professor’s voiceover, small group discussion sections, and online homework questionnaires/assignments.</description>
     </item>
     
     <item>
       <title>Japan</title>
-      <link>/blog/2020/japan/</link>
+      <link>https://rgnmnl.github.io/blog/2020/japan/</link>
       <pubDate>Sun, 23 Aug 2020 22:26:45 +0000</pubDate>
       
-      <guid>/blog/2020/japan/</guid>
+      <guid>https://rgnmnl.github.io/blog/2020/japan/</guid>
       <description>Shibuya Center-Gai, November 2018
   Kinkaku-ji, November 2018
  To add a bit of color to my blog in the meantime, I’m sharing a couple photos from one of my favorite trips abroad.</description>
@@ -52,10 +58,10 @@ Last year, for my Spotify Wrapped, I found out that my top songs of 2020 had not
     
     <item>
       <title>Finally! How I got my blog to work...</title>
-      <link>/blog/2020/hello/</link>
+      <link>https://rgnmnl.github.io/blog/2020/hello/</link>
       <pubDate>Fri, 21 Aug 2020 22:00:00 +0000</pubDate>
       
-      <guid>/blog/2020/hello/</guid>
+      <guid>https://rgnmnl.github.io/blog/2020/hello/</guid>
       <description>Finally! This blog was over a year in the making, but I finally managed to get it to work. It took me a REALLY long time to realize that my dissatisfaction with my GitHub username was causing all the blog deployment hiccups.
 I’ve been intending to start a blog as a showcase or dumping site of sorts. It might be a slow start because I’m learning the intricacies of blogdown and GitHub, as well as deciding on how to appropriately structure my content without becoming a huge mess.</description>
     </item>
